@@ -1,0 +1,9 @@
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/actool/_PartialAppManifest.items
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/device-builds/iphone4.1-8.1.2/optimized/
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/bin/iPhone/Debug/Modulo3Lesson4.exe.mdb
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/bin/iPhone/Debug/Modulo3Lesson4.exe
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/Modulo3Lesson4.exe
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/Modulo3Lesson4.exe.mdb

@@ -1,0 +1,17 @@
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/optimized/
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/bin/iPhoneSimulator/Debug/Modulo3Lesson4.exe.mdb
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/bin/iPhoneSimulator/Debug/Modulo3Lesson4.exe
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/Modulo3Lesson4.exe
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/Modulo3Lesson4.exe.mdb
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/optimized/pict.png
+/Users/Tuti/GitHub/Module3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/Tuti/GitHub/Module3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/optimized/pict.png
+/Users/Tuti/GitHub/Module3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/optimized/
+/Users/Tuti/GitHub/Module3Lesson4/Modulo3Lesson4/bin/iPhoneSimulator/Debug/Modulo3Lesson4.exe.mdb
+/Users/Tuti/GitHub/Module3Lesson4/Modulo3Lesson4/bin/iPhoneSimulator/Debug/Modulo3Lesson4.exe
+/Users/Tuti/GitHub/Module3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/Modulo3Lesson4.exe
+/Users/Tuti/GitHub/Module3Lesson4/Modulo3Lesson4/obj/iPhoneSimulator/Debug/Modulo3Lesson4.exe.mdb

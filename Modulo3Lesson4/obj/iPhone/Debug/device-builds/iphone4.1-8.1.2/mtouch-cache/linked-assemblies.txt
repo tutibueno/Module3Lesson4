@@ -1,0 +1,4 @@
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/device-builds/iphone4.1-8.1.2/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/device-builds/iphone4.1-8.1.2/mtouch-cache/Link/mscorlib.dll
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/device-builds/iphone4.1-8.1.2/mtouch-cache/Link/System.dll
+/Users/Tuti/GitHub/Lessons/Modulo3Lesson4/Modulo3Lesson4/obj/iPhone/Debug/device-builds/iphone4.1-8.1.2/mtouch-cache/Link/Modulo3Lesson4.exe
